@@ -1,2 +1,3 @@
 # blog
-Application simple de type blo
+Application simple de type blog
+
